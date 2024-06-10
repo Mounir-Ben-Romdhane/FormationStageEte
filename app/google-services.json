@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "859293370642",
-    "project_id": "formationgroupe8-6c4da",
-    "storage_bucket": "formationgroupe8-6c4da.appspot.com"
+    "project_number": "878634485000",
+    "project_id": "formationete-77e99",
+    "storage_bucket": "formationete-77e99.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:859293370642:android:8dda2ab495dabbddedcbcb",
+        "mobilesdk_app_id": "1:878634485000:android:ff18caa35ebdd3fcd8d8bd",
         "android_client_info": {
           "package_name": "com.example.formationgroupe8"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBNsCcn9Cqya3fOjm71HmU6vOJl9pE-Rzw"
+          "current_key": "AIzaSyDuApjVu4FKcLtFOGuo5YoqFvaQrBGuxGo"
         }
       ],
       "services": {
